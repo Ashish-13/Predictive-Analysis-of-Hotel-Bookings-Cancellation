@@ -4,7 +4,7 @@ To counter the effect of cancellation hotels implements strategies like overbook
 
 ## File Description 
 
-**Project Report Presentation** 
+**Project Report Presentation**: It is a video presentation which will provide a quick introduction and key aspects of the project.
 
 **Project Design**: It contains the data exploration methods tested on this data to get information on features which are actually useful for the  prediction.
 
